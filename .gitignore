@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+
+
+# Streamlit
+.streamlit/
+
+# Environment
+.env
+venv/
+env/
