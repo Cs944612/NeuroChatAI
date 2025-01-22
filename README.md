@@ -154,8 +154,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### 🔄 Updates and Versioning
 
-Current Version: 1.0.0
-Last Updated: 2025-01-22 16:17:17 UTC
-Author: Cs944612
+- Current Version: 1.0.0
+- Last Updated: 2025-01-22
+- Author: Cs944612
 
 Made with ❤️ by Cs944612
