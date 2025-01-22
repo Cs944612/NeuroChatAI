@@ -148,8 +148,8 @@ Open a Pull Request
 
 ### 🙏 Acknowledgments
 
-Streamlit for their amazing framework
-The LLM community for their continuous support
+- Streamlit for their amazing framework
+- The LLM community for their continuous support
 
 ### 🔄 Updates and Versioning
 
