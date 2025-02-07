@@ -46,15 +46,15 @@ streamlit run streamlit_app.py
 
 ### ✨ Features
 
-🌐 Local LLM interaction
-💬 Interactive chat interface
-⚙️ Configurable model parameters
-💾 Chat history management
-📤 Export conversations
-⚡ Predefined prompts for quick testing
-🛡️ Built-in error handling and rate limiting
-🔍 API health monitoring
-🎨 Modern, responsive UI
+- 🌐 Local LLM interaction
+- 💬 Interactive chat interface
+- ⚙️ Configurable model parameters
+- 💾 Chat history management
+- 📤 Export conversations
+- ⚡ Predefined prompts for quick testing
+- 🛡️ Built-in error handling and rate limiting
+- 🔍 API health monitoring
+- 🎨 Modern, responsive UI
 
 ### 🛠️ Installation
 
